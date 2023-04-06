@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 [![PORTFOLIO](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://www.yourportfolio.com/](https://arthurs-space-dzjzzkgk4-hubarthurcoelho.vercel.app/))
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/arthurccoelho/) &nbsp;
 
-## Stack 👨🏻‍💻
+## Current Stack 👨🏻‍💻
 ![GOLANG](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) &nbsp;
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &nbsp;
