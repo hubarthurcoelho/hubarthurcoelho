@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 ## Current Stack 👨🏻‍💻
 ![GOLANG](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) &nbsp;
+![Gin](https://img.shields.io/badge/Gin-%236DB33F.svg?style=for-the-badge&logo=go&logoColor=white)
+![Gorm](https://img.shields.io/badge/Gorm-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &nbsp;
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js) &nbsp;
