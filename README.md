@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 ## Knowledge 📚
 ![RESTful](https://img.shields.io/badge/RESTful-API-008080?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-Object--Oriented%20Programming-blueviolet?style=for-the-badge)
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
