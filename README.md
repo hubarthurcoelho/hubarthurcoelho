@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 💻 I work as a Jr. Full Stack Developer, with a focus on Backend development<br>
 🎓 I'm a Civil Engineer, but my passion for technology led me to transition into a career in software development<br>
 💬 I'm always excited to learn new things and expand my skills!<br>
-🌱 Currently, I'm sharpening my skills and working with Golang 
+🌱 Currently, I'm sharpening my skills and working with Golang, Kubernetes, AWS and Helm Charts
 
 ## How to reach me 📫
 <a href="https://arthurs-space-dzjzzkgk4-hubarthurcoelho.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
