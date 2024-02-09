@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## About me <img src="https://drive.google.com/uc?id=1TZ-9p389-5Y-LuKTueeq6JjtDkiN6vXA" width="60">
 👋 Hello, I'm Arthur!
 
-💻 I work as a Jr. Full Stack Developer, with a focus on Backend development<br>
+💻 I work as a Full Stack Developer since 2022, with a focus on Backend development<br>
 🎓 I'm a Civil Engineer, but my passion for technology led me to transition into a career in software development<br>
 💬 I'm always excited to learn new things and expand my skills!<br>
 🌱 Currently, I'm sharpening my skills and working with Golang, Kubernetes, AWS and Helm Charts
