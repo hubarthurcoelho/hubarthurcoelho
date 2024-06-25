@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 ## About me <img src="https://drive.google.com/uc?id=1TZ-9p389-5Y-LuKTueeq6JjtDkiN6vXA" width="60">
@@ -18,7 +17,6 @@ Here are some ideas to get you started:
 💻 I work as a Full Stack Developer since 2022, with a focus on Backend development<br>
 🎓 I'm a Civil Engineer, but my passion for technology led me to transition into a career in software development<br>
 💬 I'm always excited to learn new things and expand my skills!<br>
-🌱 Currently, I'm sharpening my skills and working with Golang, Kubernetes, AWS and Helm Charts
 
 ## How to reach me 📫
 <a href="https://arthurs-space-dzjzzkgk4-hubarthurcoelho.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
@@ -37,10 +35,10 @@ Here are some ideas to get you started:
 ## Knowledge 📚
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![RESTful](https://img.shields.io/badge/RESTful-API-008080?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/OOP-Object--Oriented%20Programming-blueviolet?style=for-the-badge)
-![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <br>
 <br>
 
